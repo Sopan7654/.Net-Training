@@ -1,0 +1,14 @@
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.AssemblyInfoInputs.cache
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.AssemblyInfo.cs
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.csproj.CoreCompileInputs.cache
+E:\dotnet-training\Day3\bin\Debug\net8.0\Day3.exe
+E:\dotnet-training\Day3\bin\Debug\net8.0\Day3.deps.json
+E:\dotnet-training\Day3\bin\Debug\net8.0\Day3.runtimeconfig.json
+E:\dotnet-training\Day3\bin\Debug\net8.0\Day3.dll
+E:\dotnet-training\Day3\bin\Debug\net8.0\Day3.pdb
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.dll
+E:\dotnet-training\Day3\obj\Debug\net8.0\refint\Day3.dll
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.pdb
+E:\dotnet-training\Day3\obj\Debug\net8.0\Day3.genruntimeconfig.cache
+E:\dotnet-training\Day3\obj\Debug\net8.0\ref\Day3.dll
