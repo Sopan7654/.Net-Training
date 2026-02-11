@@ -1,0 +1,15 @@
+E:\dotnet-training\Day7\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.exe
+E:\dotnet-training\Day7\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.deps.json
+E:\dotnet-training\Day7\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.runtimeconfig.json
+E:\dotnet-training\Day7\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.dll
+E:\dotnet-training\Day7\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.pdb
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfo.cs
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.sourcelink.json
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.dll
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\refint\ExceptionHandlingDemo.dll
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.pdb
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.genruntimeconfig.cache
+E:\dotnet-training\Day7\ExceptionHandlingDemo\obj\Debug\net8.0\ref\ExceptionHandlingDemo.dll
