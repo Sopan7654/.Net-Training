@@ -1,0 +1,15 @@
+E:\dotnet-training\Day7\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.exe
+E:\dotnet-training\Day7\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.deps.json
+E:\dotnet-training\Day7\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.runtimeconfig.json
+E:\dotnet-training\Day7\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.dll
+E:\dotnet-training\Day7\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.pdb
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfoInputs.cache
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfo.cs
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.sourcelink.json
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.dll
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\refint\AsyncProgramming.dll
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
+E:\dotnet-training\Day7\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
